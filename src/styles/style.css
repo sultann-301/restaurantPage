@@ -97,16 +97,16 @@ p {
     grid-template-columns: minmax(100px, auto);
   }
   p {
-    font-size: 0.95rem;
+    font-size: 0.85rem;
   }
   h1 {
-    font-size: 5rem;
+    font-size: 4rem;
   }
   h3 {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
   .tabmenu button {
     flex-basis: 40px;
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
 }
