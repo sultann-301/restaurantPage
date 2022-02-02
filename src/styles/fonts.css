@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Avara";
+  src: url("./fonts/headline_fonts/avara.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Avara Black";
+  src: url("./fonts/headline_fonts/Avara-Black.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Avara Bold";
+  src: url("./fonts/headline_fonts/Avara-BoldItalic.woff") format("woff");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Karrik Regular";
+  src: url("./fonts/text_fonts/Karrik-Regular.woff ") format("woff");
+}
